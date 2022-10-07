@@ -117,7 +117,7 @@ const onWithdrawWinnings = async() => {
   }
 } 
   
-  if(isLoading) return <Loading />
+  if(isLoading) return <Loading />;
   if (!address) return <Login />;
   return (
 <div className="bg-[#05110f] min-h-screen flex flex-col">
