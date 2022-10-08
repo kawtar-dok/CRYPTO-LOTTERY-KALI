@@ -4,7 +4,7 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 What i did used :
 
-react typescript nextjs blockchain solidity metamask ethers react-spinners tailwindcss react-countdown react-hot-toast thirdweb heroicons-react thirdweb-deploy thirdweb-dev-sdk
+react typescript nextjs blockchain solidity metamask ethers react-spinners tailwindcss react-countdown react-hot-toast thirdweb heroicons-react thirdweb-deploy thirdweb-dev-sdk V
 
 ## Deploy your own
 
